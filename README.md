@@ -1,4 +1,3 @@
-**Ringkasan README**
 
 Project ini berfokus pada penggunaan Python dan pembuatan aplikasi CRUD
 sederhana yang dirancang untuk memfasilitasi perbandingan berbagai
