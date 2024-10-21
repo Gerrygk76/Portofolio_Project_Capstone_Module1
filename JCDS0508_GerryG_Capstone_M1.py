@@ -152,7 +152,7 @@ def filter_utama():
         device_type = input("menampilkan pencarian berdasarkan type laptop atau handheld: ")
         filtered_devices = filter_devices_by_type(device_type)
     else:
-        print("opsi yang and input tidak tersedia, input menu 1 ~ 3")
+        print("opsi yang anda input tidak tersedia, input menu 1 ~ 3")
         return
 
     if filtered_devices:
