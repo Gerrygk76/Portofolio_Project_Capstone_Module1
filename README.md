@@ -1,5 +1,6 @@
+Tema : Perbandingan Spesifikasi Handheld & Laptop Gaming
 
-Project ini berfokus pada penggunaan Python dan pembuatan aplikasi CRUD
+Project ini berfokus pada penggunaan Python dan pembuatan aplikasi CRUD (_Create_Read_Update_Delete)
 sederhana yang dirancang untuk memfasilitasi perbandingan berbagai
 perangkat berbasis komputer, termasuk laptop dan perangkat genggam
 (handheld), berdasarkan spesifikasi teknis dan harga yang tersedia.
