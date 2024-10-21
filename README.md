@@ -62,7 +62,10 @@ memiliki spesifikasi yang terperinci, seperti:
     pembelian berdasarkan list device yang di sajikan serta input atau
     jumlah saldo yang diberikan. Dan secara otomatis melakukan pembaruan
     library device apabila telah di lakukannya transkaksi.
-
+    
+6.  **Fasilitas sorting harga termurah dan termahal device :** memungkinkan
+    pengguna untuk mengakses table visual yang memudahkan perbandingan harga termurah dan termahal dari list device yang diberikan
+    
 **Persyaratan:**
 
 -   **Python 3.x**: Skrip ini ditulis dalam Python 3.x dan membutuhkan
